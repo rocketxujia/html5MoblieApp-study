@@ -5,6 +5,9 @@ node_modules
 ##IDEA
 .idea
 *.iml
+#################
+##android
+*.apk
 
 *.pydevproject
 .project
