@@ -8,6 +8,8 @@ node_modules
 #################
 ##android
 *.apk
+out
+
 
 *.pydevproject
 .project
