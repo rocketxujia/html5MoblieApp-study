@@ -5,7 +5,7 @@ html5MoblieApp-study 是个html5 mobile 应用开发小组，在学习html5 mobi
 * 成果应用目录： ./apps
 
 ## 学习文档
-1. [开始android html5 应用开发]
+1. [开始android html5 应用开发](https://github.com/sdg-sysdev/html5MoblieApp-study/blob/master/docs/helloworld_android_start.md)
 2. todo
 
 ## 成果应用
