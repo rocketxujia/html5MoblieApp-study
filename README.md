@@ -10,7 +10,8 @@ html5MoblieApp-study 是个html5 mobile 应用开发小组，在学习html5 mobi
 
 
 ## 成果应用
-1. todo
+## 成果应用
+1. [helloworld](https://github.com/sdg-sysdev/html5MoblieApp-study/tree/master/apps/helloworld)初级应用：已包含phonegap框架的android插件，可通过IDEA配置运行生成apk，部署到模拟器或android手机上查看。
 
 ## License
 
